@@ -1,0 +1,19 @@
+* {
+    background-color: skyblue;
+    color:#3C4142;
+}
+h1 {
+    color: #3C4142;
+    font-size: 85px;
+}
+h2 {
+    color: black;
+    font-size: 40px;
+}
+strong {
+    color: black;
+}
+.home {
+    height:auto;
+    width: 70px;
+}
