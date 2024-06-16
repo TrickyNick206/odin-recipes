@@ -7,3 +7,7 @@ h1 {
     color: hwb(60 3% 65%);
 }
 
+img {
+    height:auto;
+    width: 600;  
+}
