@@ -11,3 +11,9 @@ img {
     height:auto;
     width: 600;  
 }
+
+.recipes {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
