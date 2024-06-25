@@ -11,9 +11,16 @@ img {
     height:auto;
     width: 600;  
 }
+p, ul {
+    text-align: center;
+    list-style-type: none;
+}
 
 .recipes {
     background-color: black;
     color: aliceblue;
-    text-align: center;
+}
+.image {
+    display: grid;
+    place-items: center;
 }
