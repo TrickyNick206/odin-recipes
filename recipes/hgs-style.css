@@ -1,0 +1,14 @@
+* {
+    background-color: #000000;
+    color: white;
+}
+
+.fish {
+    display: grid;
+    place-items: center;
+}
+.title{
+    font-size: large;
+    font-weight: bold;
+    color: #FFC0CB;
+} 

@@ -1,10 +1,10 @@
 * {
-    background-color: #B0e0e6;
+    background-color: #ff9933;
 }
 
 h1 {
     text-align: center;
-    color: hwb(60 3% 65%);
+    color: hwb(60 13% 59%);
 }
 
 img {
@@ -18,9 +18,10 @@ p, ul {
 
 .recipes {
     background-color: black;
-    color: aliceblue;
+    color: red;
 }
 .image {
     display: grid;
     place-items: center;
 }
+
